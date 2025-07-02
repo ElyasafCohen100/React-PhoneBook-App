@@ -1,7 +1,7 @@
 # 📞 React PhoneBook App – Smart & Stylish! 💻
 
-A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux + MUI (Material UI)**.
-combining simplicity, clarity and a smooth user experience.  
+A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux + MUI (Material UI)**.  
+Combining simplicity, clarity and a smooth user experience.  
 Create, edit, and view your contacts easily – all in a clean and intuitive interface! ✨✨
 
 ---
@@ -9,13 +9,13 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🖼️ App Screenshots 🖼️
 
 ### 🌟 Main Screen – Contact List 🌟  
-![Main Screen](main_screen.jpg)
+![Main Screen](/main_screen.jpg)
 
 ### 📋 Contact Details View 📋  
-![Contact Details](show_contact.jpg)
+![Contact Details](/show_contact.jpg)
 
 ### ➕ Add New Contact ➕  
-![Add Contact](add_new_contact.jpg)
+![Add Contact](/add_new_contact.jpg)
 
 ---
 
@@ -81,8 +81,8 @@ npm run dev
 
 ## 🚀 Demo 🚀
 
-> You can view a live demo [here](https://your-deployment-url.com)  
-> (replace with real deployment if you have one! 🥳)
+> You can view a live demo [here](https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app)  
+> ✅ Deployed with [Vercel](https://vercel.com)
 
 ---
 
