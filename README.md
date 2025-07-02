@@ -1,5 +1,7 @@
 # 📞 React PhoneBook App – Smart & Stylish! 💻
 
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-blueviolet?style=for-the-badge&logo=vercel)](https://react-phone-book-app-d7qm.vercel.app)
+
 A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux + MUI (Material UI)**.  
 Combining simplicity, clarity and a smooth user experience.  
 Create, edit, and view your contacts easily – all in a clean and intuitive interface! ✨✨
@@ -64,7 +66,7 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YourUsername/React-PhoneBook-App.git
+git clone https://github.com/ElyasafCohen100/React-PhoneBook-App.git
 ```
 
 2. Install dependencies:
@@ -81,7 +83,7 @@ npm run dev
 
 ## 🚀 Demo 🚀
 
-> You can view a live demo [here](https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app)  
+> You can view a live demo [here](https://react-phone-book-app-d7qm.vercel.app)  
 > ✅ Deployed with [Vercel](https://vercel.com)
 
 ---
