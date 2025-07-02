@@ -1,5 +1,11 @@
 # 📞 React PhoneBook App – Smart & Stylish! 💻
 
+<p align="center">
+  <a href="https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%B7%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E90FF" alt="Live Demo Badge"/>
+  </a>
+</p>
+
 A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux + MUI (Material UI)**.  
 Combining simplicity, clarity and a smooth user experience.  
 Create, edit, and view your contacts easily – all in a clean and intuitive interface! ✨✨
@@ -81,12 +87,7 @@ npm run dev
 
 ## 🚀 Demo 🚀
 
-<p align="center">
-  <a href="https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-1E90FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f62fe" alt="Live Demo Badge"/>
-  </a>
-</p>
-
+> You can view a live demo [here](https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app)  
 > ✅ Deployed with [Vercel](https://vercel.com)
 
 ---
