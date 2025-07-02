@@ -8,13 +8,13 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🖼️ App Screenshots 🖼️
 
 ### 🌟 Main Screen – Contact List 🌟
-![Main Screen](./main_screen.jpg)
+![Main Screen](main_screen.jpg)
 
 ### 📋 Contact Details View 📋
-![Contact Details](./show_contact.jpg)
+![Contact Details](show_contact.jpg)
 
 ### ➕ Add New Contact ➕
-![Add Contact](./add_new_contact.jpg)
+![Add Contact](add_new_contact.jpg)
 
 ---
 
