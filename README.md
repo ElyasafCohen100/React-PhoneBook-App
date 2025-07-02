@@ -1,40 +1,43 @@
 # 📞 React PhoneBook App – Smart & Stylish! 💻
 
-A beautifully designed **PhoneBook Manager App** built with **React + Vite + MUI (Material UI)**, combining simplicity, clarity and a smooth user experience.  
+A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux + MUI (Material UI)**.
+combining simplicity, clarity and a smooth user experience.  
 Create, edit, and view your contacts easily – all in a clean and intuitive interface! ✨✨
 
 ---
 
 ## 🖼️ App Screenshots 🖼️
 
-### 🌟 Main Screen – Contact List 🌟
+### 🌟 Main Screen – Contact List 🌟  
 ![Main Screen](main_screen.jpg)
 
-### 📋 Contact Details View 📋
+### 📋 Contact Details View 📋  
 ![Contact Details](show_contact.jpg)
 
-### ➕ Add New Contact ➕
+### ➕ Add New Contact ➕  
 ![Add Contact](add_new_contact.jpg)
 
 ---
 
 ## 🎯 Features 🎯
 
-- 👨‍👩‍👧 Add new contacts (name, phone, image, group)
-- 🖊️ Edit contact details with live form validation
-- 🗑️ Delete contact with confirmation
-- 🔍 View contact info in a modern detailed card
-- 🎨 Fully styled with **Material UI (MUI)**
-- 🪄 Slick design with animations and color themes
+- 👨‍👩‍👧 Add new contacts (name, phone, image, group)  
+- 🖊️ Edit contact details with live form validation  
+- 🗑️ Delete contact with confirmation  
+- 🔍 View contact info in a modern detailed card  
+- 🧠 Managed state using **Redux Toolkit**  
+- 🎨 Fully styled with **Material UI (MUI)**  
+- 🪄 Slick design with animations and color themes  
 
 ---
 
 ## 🧑‍💻 Technologies Used 🧑‍💻
 
-- ⚛️ React + Vite  
+- ⚛️ **React + Vite**  
+- 📦 **Redux** for state management  
 - 💠 **Material UI (MUI)** for design & components  
-- 👨‍🎨 CSS3 Styling  
-- 📦 Simple component structure  
+- 👨‍🎨 **CSS3 Styling**  
+- 🧩 Simple and modular component structure  
 
 ---
 
@@ -46,6 +49,9 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 │   ├── AddContact.jsx
 │   ├── ContactDetails.jsx
 │   ├── ContactList.jsx
+├── 📂 redux/
+│   ├── store.js
+│   ├── contactSlice.js
 ├── 📂 assets/
 │   └── profile-icons, backgrounds...
 ├── App.jsx
@@ -82,8 +88,8 @@ npm run dev
 
 ## 🎉 Built with good vibes and a big smile – by: 🎉
 
-**Elyasaf Cohen** 👊😎
- 
+**Elyasaf Cohen** 👊😎  
+
 GitHub: [@ElyasafCohen100](https://github.com/ElyasafCohen100)
 
 ---
