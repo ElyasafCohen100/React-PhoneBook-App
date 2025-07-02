@@ -1,8 +1,8 @@
 # 📞 React PhoneBook App – Smart & Stylish! 💻
 
 <p align="center">
-  <a href="https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%B7%20LIVE%20DEMO-007BFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0056b3" alt="Live Demo Badge"/>
+  <a href="https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%94%B7%20LIVE%20DEMO-007FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=007FFF" alt="Live Demo Badge"/>
   </a>
 </p>
 
@@ -15,13 +15,13 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🖼️ App Screenshots 🖼️
 
 ### 🌟 Main Screen – Contact List 🌟  
-![Main Screen](/main_screen.jpg)
+![Main Screen](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app/main_screen.jpg)
 
 ### 📋 Contact Details View 📋  
-![Contact Details](/show_contact.jpg)
+![Contact Details](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app/show_contact.jpg)
 
 ### ➕ Add New Contact ➕  
-![Add Contact](/add_new_contact.jpg)
+![Add Contact](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app/add_new_contact.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ npm run dev
 
 ## 🚀 Demo 🚀
 
-> You can view a live demo [here](https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app)  
+> You can view a live demo [here](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app)  
 > ✅ Deployed with [Vercel](https://vercel.com)
 
 ---
