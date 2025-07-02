@@ -82,7 +82,8 @@ npm run dev
 
 ## 🎉 Built with good vibes and a big smile – by: 🎉
 
-**Elyasaf Cohen** 👊😎 
+**Elyasaf Cohen** 👊😎
+ 
 GitHub: [@ElyasafCohen100](https://github.com/ElyasafCohen100)
 
 ---
