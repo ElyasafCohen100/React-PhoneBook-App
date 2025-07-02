@@ -20,14 +20,14 @@ const contactsSlice = createSlice({
   name: "contacts",
 
   initialState: {
-
     contactsList: [
-      { id: 1, firstName: "Elyasaf", lastName: "Cohen", phoneNumber: "05012345671", imageUrl: "public\\avatarPic\\boy_avatar_1.jpg" },
-      { id: 2, firstName: "Mayan", lastName: "Elkayam", phoneNumber: "05012345672", imageUrl: "public\\avatarPic\\girl_avatar_2.jpg" },
-      { id: 3, firstName: "Yakir", lastName: "Yohanan", phoneNumber: "05012345673", imageUrl: "public\\avatarPic\\boy_avatar_2.jpg" },
-      { id: 4, firstName: "Hadar", lastName: "Sarusi", phoneNumber: "05012345674", imageUrl: "public\\avatarPic\\girl_avatar_1.jpg" },
+      { id: 1, firstName: "Elyasaf", lastName: "Cohen", phoneNumber: "05012345671", imageUrl: "/avatarPic/boy_avatar_1.jpg" },
+      { id: 2, firstName: "Mayan", lastName: "Elkayam", phoneNumber: "05012345672", imageUrl: "/avatarPic/girl_avatar_2.jpg" },
+      { id: 3, firstName: "Yakir", lastName: "Yohanan", phoneNumber: "05012345673", imageUrl: "/avatarPic/boy_avatar_2.jpg" },
+      { id: 4, firstName: "Hadar", lastName: "Sarusi", phoneNumber: "05012345674", imageUrl: "/avatarPic/girl_avatar_1.jpg" },
     ],
   },
+
 
   reducers: {
     // =========== Action: Add New Contact =========== //
