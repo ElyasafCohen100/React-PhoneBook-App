@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://react-phone-book-app-d7qm-ew7v2ygxg-es-projects-54cbe7a5.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%B7%20LIVE%20DEMO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E90FF" alt="Live Demo Badge"/>
+    <img src="https://img.shields.io/badge/%F0%9F%94%B7%20LIVE%20DEMO-007BFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0056b3" alt="Live Demo Badge"/>
   </a>
 </p>
 
