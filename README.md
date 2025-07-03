@@ -15,13 +15,13 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🖼️ App Screenshots 🖼️
 
 ### 🌟 Main Screen – Contact List 🌟  
-![Main Screen](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app/main_screen.jpg)
+![Main Screen](/main_screen.jpg)
 
 ### 📋 Contact Details View 📋  
-![Contact Details](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app/show_contact.jpg)
+![Contact Details](/show_contact.jpg)
 
 ### ➕ Add New Contact ➕  
-![Add Contact](https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app/add_new_contact.jpg)
+![Add Contact](/add_new_contact.jpg)
 
 ---
 
