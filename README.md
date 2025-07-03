@@ -15,13 +15,13 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🖼️ App Screenshots 🖼️
 
 ### 🌟 Main Screen – Contact List 🌟  
-![Main Screen](/main_screen.jpg)
+![Main Screen](https://raw.githubusercontent.com/ElyasafCohen100/PhoneBook/main/public/main_screen.jpg)
 
 ### 📋 Contact Details View 📋  
-![Contact Details](/show_contact.jpg)
-
+![Contact Details](https://raw.githubusercontent.com/ElyasafCohen100/PhoneBook/main/public/show_contact.jpg)
 ### ➕ Add New Contact ➕  
-![Add Contact](/add_new_contact.jpg)
+![Add Contact](https://raw.githubusercontent.com/ElyasafCohen100/PhoneBook/main/public/add_new_contact.jpg)
+
 
 ---
 
