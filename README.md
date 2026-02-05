@@ -1,4 +1,4 @@
-# React PhoneBook App – Smart & Stylish! 💻📞
+#  📱React PhoneBook App – Smart & Stylish! 💻
 
 <p align="center">
   <a href="https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app" target="_blank">
