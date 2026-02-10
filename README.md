@@ -6,17 +6,17 @@
 
 # 📱 React PhoneBook App – Smart & Stylish! 💻
 
-![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/React-PhoneBook-App?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/React-PhoneBook-App?style=social)
-
-> **Mini Project | Frontend Development**  
-> A modern and responsive phonebook manager built with React and Material UI
-
 <p align="center">
   <a href="https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🔷%20LIVE%20DEMO-007FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=007FFF" alt="Live Demo Badge"/>
   </a>
 </p>
+
+![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/React-PhoneBook-App?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/React-PhoneBook-App?style=social)
+
+> **Mini Project | Frontend Development**  
+> A modern and responsive phonebook manager built with React and Material UI
 
 A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux Toolkit + MUI (Material UI)**.  
 The app focuses on simplicity, clarity, and a smooth user experience.  
@@ -27,11 +27,11 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🏷️ Technologies & Tools
 
 ### ⚛️ Frontend
-- ![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-Design_System-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ☁️ Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-Hosting-000000?style=for-the-badge&logo=vercel&logoColor=white)
