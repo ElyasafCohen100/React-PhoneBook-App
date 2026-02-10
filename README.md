@@ -108,10 +108,6 @@ npm run dev
 **Elyasaf Cohen** ✌️😎
 
 [![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-black?style=for-the-badge&logo=github)](https://github.com/ElyasafCohen100)
-![Profile](https://img.shields.io/badge/Elyasaf-Coder-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![React Dev](https://img.shields.io/badge/Elyasaf-React_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![AI](https://img.shields.io/badge/Elyasaf-AI_Enthusiast-000000?style=for-the-badge&logo=openai)
-[![React Dev](https://img.shields.io/badge/Elyasaf-React_Dev-61DAFB?style=for-the-badge&logo=react)](https://github.com/ElyasafCohen100)
 
 ---
 
