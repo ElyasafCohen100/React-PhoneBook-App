@@ -16,8 +16,10 @@
   </a>
 </p>
 
-A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux Toolkit + MUI (Material UI)**.  
-The app focuses on simplicity, clarity, and a smooth user experience.  
+A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux Toolkit + MUI (Material UI)**.
+
+The app focuses on simplicity, clarity, and a smooth user experience.
+
 Create, edit, and view your contacts easily – all in a clean and intuitive interface ✨
 
 ---
