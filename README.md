@@ -96,7 +96,7 @@ npm run dev
 
 **Elyasaf Cohen** 👊😎  
 
-GitHub: [@ElyasafCohen100](https://github.com/ElyasafCohen100)
+GitHub: [![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-black?style=for-the-badge&logo=github)](https://github.com/ElyasafCohen100)
 
 ---
 
