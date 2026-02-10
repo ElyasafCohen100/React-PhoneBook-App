@@ -6,17 +6,17 @@
 
 # 📱 React PhoneBook App – Smart & Stylish! 💻
 
-<p align="center">
-  <a href="https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔷%20LIVE%20DEMO-007FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=007FFF" alt="Live Demo Badge"/>
-  </a>
-</p>
-
 ![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/React-PhoneBook-App?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/React-PhoneBook-App?style=social)
 
 > **Mini Project | Frontend Development**  
 > A modern and responsive phonebook manager built with React and Material UI
+
+<p align="center">
+  <a href="https://react-phone-book-app-d7qm-git-main-es-projects-54cbe7a5.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔷%20LIVE%20DEMO-007FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=007FFF" alt="Live Demo Badge"/>
+  </a>
+</p>
 
 A beautifully designed **PhoneBook Manager App** built with **React + Vite + Redux Toolkit + MUI (Material UI)**.  
 The app focuses on simplicity, clarity, and a smooth user experience.  
