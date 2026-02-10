@@ -109,7 +109,7 @@ npm run dev
 
 ---
 
-## 🎉 Create with good vibes by: 🎉
+## Create with good vibes by: 🎉
 
 **Elyasaf Cohen** ✌️😎
 
