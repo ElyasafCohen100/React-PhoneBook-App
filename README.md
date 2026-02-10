@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ElyasafCohen100">
-   <img src="public/avatarPic/pic2.jpg" width="200" style="border-radius70%"/>
+    <img src="public/avatarPic/pic2.jpg" width="140" style="border-radius:50%"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 
 ---
 
-## 🖼️ App Screenshots
+## 🖼️ App Screenshots 🖼️
 
 ### 🌟 Main Screen – Contact List  
 ![Main Screen](https://raw.githubusercontent.com/ElyasafCohen100/PhoneBook/main/public/main_screen.jpg)
@@ -51,7 +51,7 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 
 ---
 
-## 🎯 Features
+## 🎯 Features 🎯
 
 - 👨‍👩‍👧 Add new contacts (name, phone, image, group)  
 - 🖊️ Edit contact details with live form validation  
@@ -63,7 +63,7 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure 📁
 
 ```
 📁 src/
@@ -109,7 +109,7 @@ npm run dev
 
 ---
 
-## 🎉 Built with good vibes and a big smile – by: 🎉
+## 🎉 Create with good vibes by: 🎉
 
 **Elyasaf Cohen** ✌️😎
 
