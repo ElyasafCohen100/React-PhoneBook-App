@@ -94,7 +94,7 @@ npm run dev
 
 ## 🎉 Built with good vibes and a big smile – by: 🎉
 
-**Elyasaf Cohen** 👊😎  
+**Elyasaf Cohen** 👊😎✌️
 
 [![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-black?style=for-the-badge&logo=github)](https://github.com/ElyasafCohen100)
 
