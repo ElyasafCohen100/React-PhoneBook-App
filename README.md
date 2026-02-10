@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/ElyasafCohen100">
+    <img src="public/avatarPic/pic2.jpg" width="140" style="border-radius:50%"/>
+  </a>
+</p>
+
 # 📱 React PhoneBook App – Smart & Stylish! 💻
 
 ![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/React-PhoneBook-App?style=social)
