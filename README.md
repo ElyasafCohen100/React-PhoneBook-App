@@ -54,11 +54,17 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 ## 🎯 Features 🎯
 
 - 👨‍👩‍👧 Add new contacts (name, phone, image, group)  
+
 - 🖊️ Edit contact details with live form validation  
+
 - 🗑️ Delete contacts with confirmation dialog  
+
 - 🔍 View contact information in a modern detailed card  
+
 - 🧠 Global state management using **Redux Toolkit**  
+
 - 🎨 Fully styled with **Material UI (MUI)**  
+
 - 🪄 Clean layout with smooth UI transitions  
 
 ---
