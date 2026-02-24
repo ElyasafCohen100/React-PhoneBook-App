@@ -118,7 +118,7 @@ npm run dev
 ## Create with good vibes by: 🎉
 
 <p align="center">
-  <img src="EC.jpeg" width="600">
+  <img src="EC2.jpeg" width="600">
 </p>
                              
 <p align="center">                    
