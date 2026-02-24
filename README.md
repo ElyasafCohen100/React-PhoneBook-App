@@ -117,10 +117,15 @@ npm run dev
 
 ## Create with good vibes by: 🎉
 
-**Elyasaf Cohen** ✌️😎
-
-[![Elyasaf Cohen](https://img.shields.io/badge/GitHub-ElyasafCohen100-black?style=for-the-badge&logo=github)](https://github.com/ElyasafCohen100)
-
+<p align="center">
+  <img src="EC.jpeg" width="600">
+</p>
+                             
+<p align="center">                    
+  <a href="https://github.com/ElyasafCohen100">
+     <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 ---
 
 > ⭐ If you like this project – please leave a star! ⭐
