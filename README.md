@@ -24,7 +24,7 @@ Create, edit, and view your contacts easily – all in a clean and intuitive int
 
 ---
 
-## 🏷️ Technologies & Tools
+## 🏷️ Technologies & Tools 🏷️
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
